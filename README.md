@@ -2,4 +2,4 @@
 
 Personal Static Website
 
-[molicode.com](https://molicode.com)
+[www.molicode.com](https://www.molicode.com)
